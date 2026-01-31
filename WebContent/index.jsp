@@ -17,7 +17,7 @@ div.ex {
 <body>
 	<h1>CLOUDBLITZ-TEAM</h1> </br>
 	<h2>Welcomes you!!</h2> </br>
-	<h2>Student admission form cloudblitz nagpur </h2>
+	<h2>Student admission form cloudblitz nagpur 123.... </h2>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
@@ -51,5 +51,6 @@ div.ex {
 	</div>
 </body>
 </html>
+
 
 
